@@ -1,1 +1,1 @@
-proxyip.digitalocean.hw.090227.xyz,USA
+99.83.209.185,USA
