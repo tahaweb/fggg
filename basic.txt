@@ -1,3 +1,5 @@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#t.me%2FOutlineVpnOfficial%20%7C%20%282541%29%20%7C%20US
 
 vless://28410b6e-6c31-5313-ae33-16353906510c@172.67.142.3:8443?path=vness-ws%2F%3Fed%3D2048&security=tls&alpn=h3&encryption=none&host=40f36cba-70a3-42eb-ba31-511ebc90707f.llfhgx.woRkeRs.DEV&fp=chrome&type=ws&sni=40f36cba-70a3-42eb-ba31-511ebc90707f.llfhgx.woRkeRs.DEV#HB%20MCI%204
+
+vless://cea209cf-c262-401b-9697-7b4275e527ca@xklamfpe.jdo87ndkwjd.kwjoxhs.kjdkbnq.persianfly.org:889?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
