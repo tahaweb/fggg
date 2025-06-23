@@ -1,0 +1,1 @@
+vless://cea209cf-c262-401b-9697-7b4275e527ca@212.80.31.12:883?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#f
